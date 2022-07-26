@@ -5,7 +5,8 @@ sum = a + b
 sub = a - b
 multi = a * b
 div = a / b
-print (sum)
-print (sub)
-print (multi)
-print (div)
+
+print ('sum', sum)
+print ('subtract', sub)
+print ('multiply', multi)
+print ('division', div)
